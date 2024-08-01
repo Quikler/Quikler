@@ -14,6 +14,8 @@
 
 - ⚡ Fun facts **I love programming👨🏻‍💻 && playing games🎮 && doing sports⚽**
 
+![](https://komarev.com/ghpvc/?username=Quikler)
+
 <!-- Languages and Tools -->
 <h2> 🛠️ &nbsp;Languages and Tools:</h2>
 <p>
