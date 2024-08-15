@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Hi%20there!&fontAlignY=38&animation=twinkling&fontColor=fff&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=gradient&text=Hi%20there!&fontAlignY=42&animation=twinkling&fontColor=fff&textBg=false"/>
 </p>
 
-<h1 align="left">My name is Roman Binykow and I'm a .NET developer from Ukraine💙💛</h2>
+<h1 align="left">My name is Roman Binykow and I'm a C# developer from Ukraine💙💛</h2>
 
 - 🌱 I’m currently learning **ASP.NET Core, Entrity Framework Core, JS, Unity**
 
