@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core, Entrity Framework Core, JS, Unity**
 
-- 🔭 I’m currently working on [TechTales](https://github.com/Quikler/TechTales)
+- 🔭 I’m currently working on **[TechTales](https://github.com/Quikler/TechTales)**
 
 - 💬 Ask me about <a href="https://dotnet.microsoft.com/">**.NET**</a>
 
