@@ -4,7 +4,7 @@
 
 <h1 align="left">My name is Roman Binykow and I'm a C# developer from Ukraine💙💛</h2>
 
-- 🌱 I’m currently learning **ASP.NET Core, Entrity Framework Core, JS, Unity**
+- 🌱 I’m currently learning **React, Angular, Unity**
 
 - 🔭 I’m currently working on **[TechTales](https://github.com/Quikler/TechTales)**
 
