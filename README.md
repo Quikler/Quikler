@@ -10,9 +10,9 @@
 
 - 💬 Ask me about <a href="https://dotnet.microsoft.com/">**.NET**</a>
 
-- 📫 How to reach me **binykowroman25@gmail.com**
+- 📫 How to reach me **binykowroman25@gmail.com | <a href="https://www.linkedin.com/in/roman-binykow-152895329/">LinkedIn</a> | <a href="https://discordapp.com/users/479183227995815936">Discord</a>**
 
-- ⚡ Fun facts **I love programming👨🏻‍💻 && playing games🎮 && doing sports⚽**
+- ⚡ Fun facts **I love programming👨🏻‍💻 && playing games🎮 && doing sports⚽ && making music with LMMS🎧**
 
 ![](https://komarev.com/ghpvc/?username=Quikler)
 
