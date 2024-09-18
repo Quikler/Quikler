@@ -10,7 +10,7 @@
 
 - 💬 Ask me about <a href="https://dotnet.microsoft.com/">**.NET**</a>
 
-- 📫 How to reach me **binykowroman25@gmail.com | <a href="https://www.linkedin.com/in/roman-binykow-152895329/">LinkedIn</a> | <a href="https://discordapp.com/users/479183227995815936">Discord</a>**
+- 📫 How to reach me **binykowroman25@gmail.com | <a href="https://www.linkedin.com/in/roman-binykow-152895329/">LinkedIn</a> | <a href="https://discordapp.com/users/479183227995815936">Discord</a> | <a href="https://stackoverflow.com/users/23143871/quikler">Stack Overflow</a>**
 
 - ⚡ Fun facts **I love programming👨🏻‍💻 && playing games🎮 && doing sports⚽ && making music with <a href="https://lmms.io/">LMMS</a>🎧**
 
