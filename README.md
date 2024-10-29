@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Angular, Unity**
 
-- 🔭 I’m currently working on **[TechTales](https://github.com/Quikler/TechTales)**
+- 🔭 I’m currently working on **[ClearSkyForecast](https://github.com/Quikler/ClearSkyForecast)**
 
 - 💬 Ask me about <a href="https://dotnet.microsoft.com/">**.NET**</a>
 
