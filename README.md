@@ -29,18 +29,22 @@
       <img src="https://ih0.redbubble.net/image.366684650.5673/flat,1000x1000,075,f.u1.jpg" alt="aspnetcore" width="45" height="45" />
       <img src="https://codeopinion.com/wp-content/uploads/2017/06/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png" alt="aspnetcoremvc" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
       <img src="https://2ality.com/2011/10/logo-js/js.jpg" alt="javascript" width="45" height="45"/>
       <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo.png" alt="bootstrap" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
       <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/debian-1024.png" alt="debian" width="45" height="45" />
       <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" alt="archlinux" width="45" height="45" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/WiX_logo_%282016%2C_black%29.svg" alt="wixv3" width="45" height="45" />
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" />
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="45" height="45"/>
 </p>
 
