@@ -35,9 +35,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
       <img src="https://2ality.com/2011/10/logo-js/js.jpg" alt="javascript" width="45" height="45"/>
       <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo.png" alt="bootstrap" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+      <img src="https://camo.githubusercontent.com/d79fbd4932083fec133128e1d46a3227d6a3f86f647de9d5eeedf65d5ad94832/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f6368616b72612d75692f6f7267616e697a6174696f6e2f302f6176617461722e7376673f6176617461724865696768743d313330" alt="chakraui" width="45" height="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
       <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/debian-1024.png" alt="debian" width="45" height="45" />
       <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" alt="archlinux" width="45" height="45" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/WiX_logo_%282016%2C_black%29.svg" alt="wixv3" width="45" height="45" />
